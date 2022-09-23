@@ -2,11 +2,11 @@
 
 ### **Amazon**
 
-1. Creación de la empresa:  
+**1. Creación de la empresa:**    
 Amazon es una compañía fundada en 1994 estadounidense de comercio electrónico y servicios de almacenamiento en la nube, con la sede en la ciudad de Seattle. Es una de las primeras compañías en vender productos a través de internet.
 
-2. Nombre empresa:  
+**2. Nombre empresa:**    
 Bezos se decanto al nombre de Amazon ya que mirando el diccionario observo la palabra Amazonas ya que era un lugar exótico y diferente.
 
-3. Logo de la empresa:  
+**3. Logo de la empresa:**    
 El logotipo de Amazon ha presentado una flecha curvada en forma de sonrisa que conduce de A a Z, lo que representa que la empresa posee todos los productos de A a Z.
