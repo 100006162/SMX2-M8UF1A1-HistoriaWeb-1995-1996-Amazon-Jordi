@@ -1,8 +1,8 @@
 # SMX2-M8UF1A1-HistoriaWeb-1995-1996-Amazon-Jordi
 
-**Amazon**
+### **Amazon**
 
-1. Creación de la empresa:
+1. Creación de la empresa:  
 Amazon es una compañía fundada en 1994 estadounidense de comercio electrónico y servicios de almacenamiento en la nube, con la sede en la ciudad de Seattle. Es una de las primeras compañías en vender productos a través de internet.
 
 2. Nombre empresa:
