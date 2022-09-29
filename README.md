@@ -13,6 +13,7 @@ Bezos se decanto al nombre de Amazon ya que mirando el diccionario observo la pa
 **3. Logo de la empresa:**    
 El logotipo de Amazon ha presentado una flecha curvada en forma de sonrisa que conduce de A a Z, lo que representa que la empresa posee todos los productos de A a Z.
 
+![Amazon](https://github.com/100006162/SMX2-M8UF1A1-HistoriaWeb-1995-1996-Amazon-Jordi/blob/main/Amazon.png "Amazon")
 
 **Lugares de interes de información:**  
 1- [🛒 La historia del REY del Comercio Electrónico | Caso Amazon](https://www.youtube.com/watch?v=eMeQxbMA6CM)  
